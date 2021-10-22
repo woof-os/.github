@@ -26,7 +26,7 @@ We are working on a Plasma edition so that new users can benifit from our featur
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/sora6kq.png?s=150">
         <br>
-        <a href="https://sora6kq.github.io">Sora</a>
+        <a href="https://sora6kq.github.io/cheesediction">Sora</a>
       </td>
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/neeraj029.png?s=150">
