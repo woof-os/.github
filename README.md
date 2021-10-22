@@ -1,6 +1,4 @@
-![Woof OS Logo](https://github.com/woof-os.png)
-
-![Woof OS Screenshot](https://woof-os.github.io/screenshot)
+![Woof OS Screenshot](https://woof-os.github.io/screenshot.jpg)
 
 # What is this?
 Woof OS. A simple Linux distribution built on top of Arch to provide a fast, bleeding-edge, powerful system to the user. It comes with pre-customized standalone window managers rather than desktop environments and light weight applications, so it is super fast but it also might be hard for new users.
