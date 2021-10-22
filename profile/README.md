@@ -12,3 +12,27 @@ The config files are updated very often and we try to make the best looking desk
 
 ## Beginner Friendly (Coming Soon)
 We are working on a Plasma edition so that new users can benifit from our features as well, just as our current config, we expect to update it very often.
+
+# Our Team
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/acutewoof.png?s=150">
+        <br>
+        <a href="https://acutewoof.github.io">ACuteWoof</a>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/sora6kq.png?s=150">
+        <br>
+        <a href="https://sora6kq.github.io">Sora</a>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/neeraj029.png?s=150">
+        <br>
+        <a href="https://neeraj029.github.io">Neeraj</a>
+      </td>
+     </tr>
+  </tbody>
+</table>
