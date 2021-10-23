@@ -1,6 +1,8 @@
 ![Woof OS Screenshot](https://woof-os.github.io/screenshot.jpg)
 
-![Made With Love](http://ForTheBadge.com/images/badges/built-with-love.svg) just like and based on ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Made With Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="https://discord.gg/p6qNduqwWM"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 # What is this?
 Woof OS. A simple Linux distribution built on top of Arch to provide a fast, bleeding-edge, powerful system to the user. It comes with pre-customized standalone window managers rather than desktop environments and light weight applications, so it is super fast but it also might be hard for new users.
