@@ -8,6 +8,16 @@
 # What is this?
 Woof OS. A simple Linux distribution built on top of Arch to provide a fast, bleeding-edge, powerful system to the user. It comes with pre-customized standalone window managers rather than desktop environments and light weight applications, so it is super fast but it also might be hard for new users.
 
+```
+██╗    ██╗ ██████╗  ██████╗ ███████╗ ██████╗ ███████╗
+██║    ██║██╔═══██╗██╔═══██╗██╔════╝██╔═══██╗██╔════╝
+██║ █╗ ██║██║   ██║██║   ██║█████╗  ██║   ██║███████╗
+██║███╗██║██║   ██║██║   ██║██╔══╝  ██║   ██║╚════██║
+╚███╔███╔╝╚██████╔╝╚██████╔╝██║     ╚██████╔╝███████║
+ ╚══╝╚══╝  ╚═════╝  ╚═════╝ ╚═╝      ╚═════╝ ╚══════╝
+```
+
+
 # Features
 ## Includes Chaotic AUR
 Chaotic AUR has binaries of popular AUR packages, that provides pre-compiled binaries to be installed rather than building packages (some) from the AUR.
