@@ -6,6 +6,9 @@
 <a href="https://discord.gg/p6qNduqwWM"><img src="https://img.shields.io/badge/Woof%20OS-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 Woof OS is a simple Arch respin for users who want a quick Arch installation with a comfortable, wood themed experience.
+
+
+---
 After [downloading](https://woof-os.github.io/downloads.html), flashing and booting into the live environment, enter "root" as the username to login. 
 
 ```
