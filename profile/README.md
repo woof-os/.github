@@ -5,8 +5,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <a href="https://discord.gg/p6qNduqwWM"><img src="https://img.shields.io/badge/Woof%20OS-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-# What is this?
-Woof OS. A simple Linux distribution built on top of Arch to provide a fast, bleeding-edge, powerful system to the user. It comes with pre-customized standalone window managers rather than desktop environments and light weight applications, so it is super fast but it also might be hard for new users.
+Woof OS is a simple Arch respin for users who want a quick Arch installation with a comfortable, wood themed experience.
+After [downloading](https://woof-os.github.io/downloads.html), flashing and booting into the live environment, enter "root" as the username to login. 
 
 ```
 ██╗    ██╗ ██████╗  ██████╗ ███████╗ ██████╗ ███████╗
@@ -25,8 +25,9 @@ Chaotic AUR has binaries of popular AUR packages, that provides pre-compiled bin
 ## Beautiful
 The config files are updated very often and we try to make the best looking desktop that is functional.
 
-## Beginner Friendly (Coming Soon)
-We are working on a Plasma edition so that new users can benifit from our features as well, just as our current config, we expect to update it very often.
+## Editions For Both Beginners and Intermediates
+We work on different editions for Woof OS to meet more users' wants. Woof OS is built in a way that it is different between the editions while giving the same feel across the OS.
+
 
 # Our Team
 
