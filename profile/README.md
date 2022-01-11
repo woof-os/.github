@@ -1,4 +1,4 @@
-![Woof OS Screenshot](https://woof-os.github.io/screenshot.jpg)
+![Woof OS Screenshot](https://cdn.discordapp.com/attachments/655947537538088962/911979927283318804/unknown.png)
 
 ![Made With Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 <br>
