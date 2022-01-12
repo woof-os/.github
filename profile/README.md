@@ -60,7 +60,7 @@ We work on different editions for Woof OS to meet more users' wants. Woof OS is 
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/akirapearl.png?s=150">
         <br>
-        <a href="https://github.com/Akriapearl">Akirapearl</a>
+        <a href="https://github.com/Akirapearl">Akirapearl</a>
       </td>
      </tr>
   </tbody>
