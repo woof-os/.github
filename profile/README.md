@@ -53,11 +53,6 @@ We work on different editions for Woof OS to meet more users' wants. Woof OS is 
         <br>
         <a href="https://neeraj029.github.io">Neeraj</a>
       </td>
-       <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/jebediah47.png?s=150">
-        <br>
-        <a href="https://github.com/jebediah47">Jeb</a>
-      </td>
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/akirapearl.png?s=150">
         <br>
