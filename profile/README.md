@@ -46,7 +46,7 @@ We work on different editions for Woof OS to meet more users' wants. Woof OS is 
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/sora6kq.png?s=150">
         <br>
-        <a href="https://sora6kq.github.io/cheesediction">Sora</a>
+        <a href="https://sora6kq.github.io">Sora</a>
       </td>
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/neeraj029.png?s=150">
