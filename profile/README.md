@@ -62,8 +62,7 @@ We work on different editions for Woof OS to meet more users' wants. Woof OS is 
         <img width="150" height="150" src="https://github.com/jebediah47.png?s=150">
         <br>
         <a href="https://github.com/jebediah47">Christian Llupo</a>
-      </td>
- 
+      </td> 
      </tr>
   </tbody>
 </table>
