@@ -30,7 +30,7 @@ Chaotic AUR has binaries of popular AUR packages, that provides pre-compiled bin
 The config files are updated very often and we try to make the best looking desktop that is functional.
 
 ## Editions For Both Beginners and Intermediates
-We work on different editions for Woof OS to meet more users' wants. Woof OS is built in a way that it is different between the editions while giving the same feel across the OS.
+We work on different editions of Woof OS to meet more of our user's needs. Woof OS is built in a way that it is different between the editions while giving the same feel across the OS.
 
 
 # Our Team
