@@ -10,7 +10,7 @@ Woof OS is a simple Arch respin for users who want a quick Arch installation wit
 
 
 ---
-After [downloading](https://woof-os.github.io/downloads.html), flashing and booting into the live environment, enter "root" as the username to login. 
+After [downloading](https://woof-os.github.io/), flashing and booting into the live environment, enter "root" as the username to login. 
 
 ```
 ██╗    ██╗ ██████╗  ██████╗ ███████╗ ██████╗ ███████╗
