@@ -8,3 +8,7 @@ Woof OS is a simple Arch respin for users who want a quick Arch installation wit
 ![Monero](./profile/monero.png)
 
 **BuyMeACoffee:** [acutewoof](https://buymeacoffee.com/acutewoof)
+
+### Contact
+**Matrix:** [woof-os:mx.lewoof.xyz](https://matrix.to/#/#woof-os:mx.lewoof.xyz)
+**Email:** sutharshanvithushan@gmail.com
