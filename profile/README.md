@@ -11,4 +11,5 @@ Woof OS is a simple Arch respin for users who want a quick Arch installation wit
 
 ### Contact
 **Matrix:** [woof-os:mx.lewoof.xyz](https://matrix.to/#/#woof-os:mx.lewoof.xyz)
+
 **Email:** sutharshanvithushan@gmail.com
