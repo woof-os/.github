@@ -1,3 +1,5 @@
+![Woof OS](./profile/0.png)
+
 https://os.lewoof.xyz
 
 Woof OS is a simple Arch respin for users who want a quick Arch installation with a comfortable, functional eye candy experience.
