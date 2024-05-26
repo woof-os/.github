@@ -6,9 +6,9 @@ Woof OS is a simple Arch respin for users who want a quick Arch installation wit
 
 ---
 ### Documentation
-Qtile: ![Common Help](https://os.lewoof.xyz/woofos-help.md) | ![Qtile Config](https://github.com/woof-os/qtile/tree/main/doc)
+Qtile: [Common Help (markdown file)](https://os.lewoof.xyz/woofos-help.md) | [Qtile Config](https://github.com/woof-os/qtile/tree/main/doc)
 
-Sway: ![Sway and Waybar Config](https://github.com/woof-os/sway-waybar-akirapearl/tree/main/doc)
+Sway: [Sway and Waybar Config](https://github.com/woof-os/sway-waybar-akirapearl/tree/main/doc)
 
 ---
 
