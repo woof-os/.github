@@ -20,6 +20,6 @@ Sway: [Sway and Waybar Config](https://github.com/woof-os/sway-waybar-akirapearl
 **BuyMeACoffee:** [acutewoof](https://buymeacoffee.com/acutewoof)
 
 ### Contact
-**Matrix:** [woof-os:mx.lewoof.xyz](https://matrix.to/#/#woof-os:mx.lewoof.xyz)
+**Discord:** [p6qNduqwWM](https://discord.gg/p6qNduqwWM)
 
 **Email:** sutharshanvithushan@gmail.com
